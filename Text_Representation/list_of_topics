@@ -1,0 +1,11 @@
+NLP Text Representation
+
+1) one hot encoding
+2) label encoding
+3) ordinal encoding
+4) bag of words
+5) Bag of Bi-gram 
+6) Bag of N-gram
+7) Tf-IDF
+8) word2vec , glove 
+9) Bert , Roberta
