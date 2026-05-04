@@ -1,0 +1,17 @@
+# Core notebook environment
+jupyterlab
+notebook
+ipykernel
+
+# Core data stack
+numpy
+pandas
+matplotlib
+seaborn
+
+# Classical NLP and preprocessing
+spacy
+nltk
+scikit-learn
+regex
+tqdm
