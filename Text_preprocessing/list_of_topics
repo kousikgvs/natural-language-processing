@@ -1,0 +1,12 @@
+1) Introduction
+2) Lowercasing
+3) Remove HTML tags
+4) Remove Urls
+5) Remove Punctuation
+6) Chat word treatment 
+7) Spelling correction
+8) Removing stop words
+9) Handling EMojis
+10) Tokenization
+11) Stemming
+12) Lemmatization
