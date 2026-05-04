@@ -1,0 +1,5 @@
+Parts of Speech (POS) tagging
+Named Entity Recognition (NER)
+Chunking (grouping words into phrases)
+Dependency Parsing (who depends on whom in a sentence)
+Constituency Parsing (sentence structure tree)

@@ -1,0 +1,4 @@
+Syntax → grammar (structure)
+Semantics → meaning
+Word sense disambiguation (e.g., “bank” river vs money)
+Coreference resolution (“Ram said he…” → who is “he”?)
